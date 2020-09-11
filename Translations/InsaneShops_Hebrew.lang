@@ -1,18 +1,18 @@
-#SHOP: Shop
-#SHOPS: Shops
-#BUY: Buy
-#TYPEIN: Type in
-#ITEMS: Items
-#SELL: Sell
-#REVENUE: Revenue
-#TRANSACTIONS: Transactions
-#PURCHASING: Purchasing
-#BUYING: Buying
-#SELLING: Selling
-#PRICE: Price
-#UNITS: Units
-#AMOUNT: Amount
-#BUY_FOR: Buy for
+#SHOP: חנות
+#SHOPS: חנויות
+#BUY: לקנות
+#TYPEIN: לכתוב
+#ITEMS: חפצים
+#SELL: למכור
+#REVENUE: רווח
+#TRANSACTIONS: העברות
+#PURCHASING: לקנות
+#BUYING: קונה
+#SELLING: מוכר
+#PRICE: מחיר
+#UNITS: יחידות
+#AMOUNT: כמות
+#BUY_FOR: לקנות ב
 #SELL_FOR: Sell for
 #AVAILABLE: Available
 #PRICE_PER_ITEM: Price per Item
